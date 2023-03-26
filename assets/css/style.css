@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* common_part_start */
+a{
+text-decoration: none;
+
+}
+:root{
+    --blue:#670AC8;
+}
+/* coom_part_end */
