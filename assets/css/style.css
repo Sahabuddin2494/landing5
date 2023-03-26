@@ -10,5 +10,34 @@ text-decoration: none;
 }
 :root{
     --blue:#670AC8;
+    --thin:#fd346e;
 }
 /* coom_part_end */
+
+/* banner_section_start */
+.banner_section_start{
+    background-image: url('../images/bg1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    /* height: 600px; */
+}
+.banner_section_logo{
+
+}
+.banner_section_details_left{
+
+}
+.banner_section_details_left h2{
+    font-weight: bold;
+    font-size: 32px;
+    line-height:160%;
+}
+.banner_section_details_left h2 span{
+    color:var(--thin);
+}
+/* left_end */
+.banner_section_details_right{
+
+}
+/* banner_section_end */
