@@ -178,3 +178,36 @@ position: relative;
     border-radius: 20px;
 }
 /* fish_marketing_section_end */
+/* price_discount_section_start */
+.price_discount_section_start{
+position: relative;
+}
+.price_discount_section{
+
+}
+.price_discount_section_img{
+    position: relative;
+}
+.price_discount_para{
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 0%;
+    right: 0%;
+    bottom: 30%;
+}
+.price_discount_para h1{
+    font-weight: bold;
+    color: #FD4343;
+}
+.price_discount_para h4{
+ line-height: 40px;
+ color: #6b6785;
+}
+.commn_img_2{
+    position: absolute;
+    left:0%;
+    right:90%;
+    bottom: 0%;
+}
+/* price_discount_section_end */
