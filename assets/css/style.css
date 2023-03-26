@@ -36,6 +36,40 @@ text-decoration: none;
 .banner_section_details_left h2 span{
     color:var(--thin);
 }
+.banner_left_down{
+
+}
+.banner_left_down_img_1{
+position: relative;
+}
+.banner_left_down_img_2{
+position: absolute;
+left: 60%;
+right: 0%;
+top:10%;
+}
+.banner_left_down_para{
+ position: absolute;
+ top:30%;
+ left: 10%;
+ bottom: 5%;
+ right: 10%;
+}
+ .banner_left_down_para h3{
+    color:var(--thin);
+    font-size: 30px;
+    font-weight: bold;
+}
+.banner_left_down_btn .btn{
+background-color:#a1d41c;
+padding: 25px 30px;
+font-size: 20px;
+font-weight: bold;
+color: white;
+}
+.banner_left_down_btn .btn:hover{
+    background-color: navy;
+}
 /* left_end */
 .banner_section_details_right{
 
