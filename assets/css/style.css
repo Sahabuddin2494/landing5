@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@100;300;400;500;600;700;800;900&family=Noto+Sans+Bengali:wght@100;300;500;700;800;900&display=swap');
 *{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+}
+body{
+    font-family: Noto Sans Bengali,sans-serif;
 }
 /* common_part_start */
 a{
@@ -75,3 +79,41 @@ color: white;
 
 }
 /* banner_section_end */
+/* Padma_hilsa_fish_section_start */
+.Padma_hilsa_fish_section_start{
+
+}
+.Padma_hilsa_fish_details{
+
+}
+.Padma_hilsa_fish_img{
+position: relative;
+animation: g 3s linear infinite;
+    transition: 3s;
+}
+.Padma_hilsa_fish_img_para{
+text-align: center;
+position: absolute;
+top:40%;
+left: 15%;
+right: 20%;
+bottom: 10%;
+}
+.Padma_hilsa_fish_img_para h5{
+    font-weight: 700;
+    font-size: 35px;
+    line-height:2rem;
+    color: white;
+}
+.Padma_hilsa_fish_img_para h1{
+    font-weight: 700;
+    font-size: 40px;
+    line-height:4rem;
+    color: #FCDC00;
+}
+.Padma_hilsa_fish_img_para h4{
+    font-size: 30px;
+    line-height:3rem;
+    color: white;
+}
+/* Padma_hilsa_fish_section_end */
