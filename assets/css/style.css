@@ -117,3 +117,37 @@ bottom: 10%;
     color: white;
 }
 /* Padma_hilsa_fish_section_end */
+/* advantage_off_our_fish_start */
+.advantage_off_out_fish{
+background-color: #F6F7FA;
+}
+.advantage_off_out_fish_title{
+    text-align: center;
+}
+.advantage_off_out_fish_title h1{
+    line-height: 3rem;
+}
+    /* advangate_details */
+.advantage_fish_details_one{
+ text-align: center;
+ background-color: white;
+ border-radius: 10px;
+ transition:all 0.7s;
+}
+.advantage_fish_details_one:hover{
+    background-color: #E5E7EB;
+
+}
+
+.advantage_fish_details_one_img{
+
+}
+.advantage_fish_details_one p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 166%;
+    color: #6b6785;
+    text-align: center;
+}
+/* advantage_off_our_fish_end */
