@@ -215,4 +215,33 @@ position: relative;
 .fish_category_section_start{
     
 }
+.fish_category_mid_section{
+    background-color: #1DE2CF;
+    border-radius: 10px;
+    padding: 6rem;
+}
+.fish_category_main{
+
+}
+.fish_category_main_one{
+    background:#7ffaee;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: all 0.7s;
+}
+.fish_category_main_one:hover{
+    background-color:#FCDC00;
+}
+.fish_category_main_one h4{
+font-weight: bold;
+}
+.fish_category_main_one .svg-inline--fa {
+    display: var(--fa-display,inline-block);
+    height: 1.4em;
+    overflow: visible;
+    vertical-align: -0.125em;
+    color: blue;
+}
 /* fish_category_section_end */
